@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\bin\Debug\static_constructor.exe.config
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\bin\Debug\static_constructor.exe
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\bin\Debug\static_constructor.pdb
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\obj\Debug\static_constructor.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\obj\Debug\static_constructor.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\obj\Debug\static_constructor.exe
+C:\Users\mqsor\Desktop\book\csharp7.0\static_constructor\static_constructor\obj\Debug\static_constructor.pdb
