@@ -1,0 +1,7 @@
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\bin\Debug\getters_setters.exe.config
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\bin\Debug\getters_setters.exe
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\bin\Debug\getters_setters.pdb
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\obj\Debug\getters_setters.csprojAssemblyReference.cache
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\obj\Debug\getters_setters.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\obj\Debug\getters_setters.exe
+C:\Users\mqsor\source\repos\getters_setters\getters_setters\obj\Debug\getters_setters.pdb
