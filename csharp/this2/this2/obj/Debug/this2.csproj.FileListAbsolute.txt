@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\bin\Debug\this2.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\bin\Debug\this2.exe
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\bin\Debug\this2.pdb
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\obj\Debug\this2.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\obj\Debug\this2.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\obj\Debug\this2.exe
+C:\Users\mqsor\Desktop\github\cshrap\this2\this2\obj\Debug\this2.pdb
