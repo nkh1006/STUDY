@@ -1,7 +1,0 @@
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\obj\Debug\class_1.csprojAssemblyReference.cache
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\obj\Debug\class_1.csproj.CoreCompileInputs.cache
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\bin\Debug\class_1.exe.config
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\bin\Debug\class_1.exe
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\bin\Debug\class_1.pdb
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\obj\Debug\class_1.exe
-C:\Users\mqsor\Desktop\github\cshrap\class_1\class_1\class_1\obj\Debug\class_1.pdb
