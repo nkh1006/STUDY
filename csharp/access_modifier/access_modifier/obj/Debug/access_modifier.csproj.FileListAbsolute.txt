@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\bin\Debug\access_modifier.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\bin\Debug\access_modifier.exe
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\bin\Debug\access_modifier.pdb
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\obj\Debug\access_modifier.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\obj\Debug\access_modifier.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\obj\Debug\access_modifier.exe
+C:\Users\mqsor\Desktop\github\cshrap\access_modifier\access_modifier\obj\Debug\access_modifier.pdb
