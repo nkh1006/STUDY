@@ -1,0 +1,2 @@
+C:\Users\mqsor\Desktop\github\cshrap\composition\composition\obj\Debug\composition.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\composition\composition\obj\Debug\composition.csproj.CoreCompileInputs.cache
