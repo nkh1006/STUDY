@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+   <div id="app">
+      <div>{{ msgA }}</div>
+      <div>{{ msgB }}</div>
+      <button v-on:click="changeMessage">Change !</button>
+   </div>
+   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+   <script>
+      const vm = new Vue({
+         el: '#app',
+         data: {
+            msgA: 'Message A',
+            msgB: ''
+         },
+         methods: {
+            changeMessage: function() {
+               this.msgA = 'Changed message A !'
+               this.msgB = 'Changed message B !'
+            }
+         },
+         computed: {},
+         watch: { 
+            msgA (value) {
+               console.log(value)
+            }
+         },
+         created: function() {},
+         mounted: function() {}
+      });
+      console.log(vm);
+   </script>
+</body>
+</html>
