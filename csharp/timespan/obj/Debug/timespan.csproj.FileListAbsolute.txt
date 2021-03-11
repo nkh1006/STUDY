@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\github\cshrap\timespan\bin\Debug\timespan.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\timespan\bin\Debug\timespan.exe
+C:\Users\mqsor\Desktop\github\cshrap\timespan\bin\Debug\timespan.pdb
+C:\Users\mqsor\Desktop\github\cshrap\timespan\obj\Debug\timespan.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\timespan\obj\Debug\timespan.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\timespan\obj\Debug\timespan.exe
+C:\Users\mqsor\Desktop\github\cshrap\timespan\obj\Debug\timespan.pdb
