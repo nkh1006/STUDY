@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\github\cshrap\datetime\bin\Debug\datetime.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\datetime\bin\Debug\datetime.exe
+C:\Users\mqsor\Desktop\github\cshrap\datetime\bin\Debug\datetime.pdb
+C:\Users\mqsor\Desktop\github\cshrap\datetime\obj\Debug\datetime.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\datetime\obj\Debug\datetime.exe
+C:\Users\mqsor\Desktop\github\cshrap\datetime\obj\Debug\datetime.pdb
