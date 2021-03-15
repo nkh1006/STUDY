@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\github\cshrap\guid\bin\Debug\guid.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\guid\bin\Debug\guid.exe
+C:\Users\mqsor\Desktop\github\cshrap\guid\bin\Debug\guid.pdb
+C:\Users\mqsor\Desktop\github\cshrap\guid\obj\Debug\guid.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\guid\obj\Debug\guid.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\guid\obj\Debug\guid.exe
+C:\Users\mqsor\Desktop\github\cshrap\guid\obj\Debug\guid.pdb
