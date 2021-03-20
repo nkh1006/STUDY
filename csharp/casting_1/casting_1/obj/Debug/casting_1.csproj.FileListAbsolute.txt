@@ -1,0 +1,7 @@
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\bin\Debug\casting_1.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\bin\Debug\casting_1.exe
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\bin\Debug\casting_1.pdb
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\obj\Debug\casting_1.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\obj\Debug\casting_1.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\obj\Debug\casting_1.exe
+C:\Users\mqsor\Desktop\github\cshrap\casting_1\casting_1\obj\Debug\casting_1.pdb
